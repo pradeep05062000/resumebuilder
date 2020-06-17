@@ -1,0 +1,22 @@
+
+#input_length {
+	width: 190px;
+}
+.adjust_field_fname {
+	position: relative;
+	float: left;
+}
+
+.adjust_field_lname {
+	position: relative;
+	float: left;
+	padding-left: 40px;
+}
+
+.inline {
+	display: inline;
+}
+
+body{
+  background: red;
+}
